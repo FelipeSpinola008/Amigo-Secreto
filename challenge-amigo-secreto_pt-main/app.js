@@ -28,7 +28,7 @@ function listaAtualizada() {
 }
 
 function sortearAmigo() {
-    if(seuAmigo === "") {
+    if(seuAmigo.length === 0) {
         alert('nehum nome adicionado');
         return;
     }
@@ -39,5 +39,6 @@ function sortearAmigo() {
     let limparLista = document.getElementById('listaAmigos');
     limparLista.innerHTML = "";
     seuAmigo = [];
+    
 }
 
