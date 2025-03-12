@@ -12,15 +12,13 @@ Neste projeto utilizei dos conhecimentos aprendidos nos cursos: Lógica de progr
 * Exibir os resultados do sorteio na tela.
 * Validação de entrada para garantir que nomes válidos sejam adicionados.
 
-## Tecnologias Utilizadas
+## Ferramentas utilizadas: 
+<div style="display: inline">
+ <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
 
-* **HTML5:** Estrutura da página web.
-* **CSS:** Estilização da página web.
-* **JavaScript:** Lógica do aplicativo, manipulação do DOM e sorteio.
-## Como Usar
-
-1.  Clone o repositório para sua máquina local.
-2.  Abra o arquivo `index.html` em seu navegador.
-3.  Digite os nomes dos amigos no campo de entrada e clique em "Adicionar".
-4.  Clique em "Sortear" para sortear os pares de amigo secreto.
-5.  Os resultados do sorteio serão exibidos na tela.
+## Como você pode testar
+ Você pode acessar o link e testar meu site clicando <a href="https://fsamigosecreto.vercel.app/" >AQUI</a>
+ 
