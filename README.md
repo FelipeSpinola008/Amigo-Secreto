@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto é um site simples de amigo secreto que permite aos usuários adicionar nomes de amigos, sortear os pares de amigo secreto e exibir os resultados. Foi um projeto de um curso da Alura junto com a Oracle. 
+Este projeto é um site simples de amigo secreto que permite aos usuários adicionar nomes de amigos, e então sortear um nome. Foi um projeto de um curso da Alura junto com a Oracle. 
 Neste projeto utilizei dos conhecimentos aprendidos nos cursos: Lógica de programação: mergulhe em programação com JavaScript; Lógica de programação: explore funções e listas; Git e GitHub: compartilhando e colaborando em projetos;
 
 ## Funcionalidades
